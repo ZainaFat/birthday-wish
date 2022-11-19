@@ -1,0 +1,21 @@
+#body_backgorund 
+{
+    background-image:url('hOye.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+   border-width: 10px;
+   border-style: ridge;
+   border-color: rgb(230, 28, 62);
+background-color: aliceblue;
+}
+#btn{
+    background-color: pink;
+    color: black;
+    font-family:Gill Sans;
+    font-size: 30px;
+}
+
